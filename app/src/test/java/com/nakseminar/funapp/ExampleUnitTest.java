@@ -12,6 +12,6 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(4, 1 + 3);
+        assertEquals(6, 3 + 3);
     }
 }
