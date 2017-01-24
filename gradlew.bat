@@ -3,7 +3,7 @@
 @rem
 @rem  Gradle startup script for Windows
 @rem
-@rem 123#####################################################################
+@rem 321#####################################################################
 
 @rem Set local scope for the variables with windows NT shell
 if "%OS%"=="Windows_NT" setlocal
