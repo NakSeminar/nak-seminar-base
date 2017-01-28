@@ -12,6 +12,6 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(10, 5 + 5);
+        assertEquals(10 - 0, 5 + 5);
     }
 }
