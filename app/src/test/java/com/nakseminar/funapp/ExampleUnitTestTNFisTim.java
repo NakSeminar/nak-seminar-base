@@ -1,4 +1,4 @@
-package com.nakseminar.funapp;
+6package com.nakseminar.funapp;
 
 import org.junit.Test;
 
@@ -12,6 +12,6 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(10, 5 + 5);
+        assertEquals(10, 4 + 5);
     }
 }
