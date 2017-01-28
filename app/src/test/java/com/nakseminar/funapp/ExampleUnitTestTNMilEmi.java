@@ -10,8 +10,11 @@ import static org.junit.Assert.*;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 public class ExampleUnitTest {
+    
+    //Dieser Test funktioniert nicht
     @Test
     public void addition_isCorrect() throws Exception {
-        assertEquals(10, 5 + 5);
+        fail();
+	assertEquals(10, 5 + 5);
     }
 }
