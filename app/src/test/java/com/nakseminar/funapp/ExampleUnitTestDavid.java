@@ -14,4 +14,8 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(5, 3 + 1);
     }
+
+    public int testFunction() {
+        return 1;
+    }
 }
