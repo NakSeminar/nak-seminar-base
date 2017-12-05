@@ -1,7 +1,7 @@
 package com.nakseminar.funapp;
 
 import org.junit.Test;
-
+// Test
 import static org.junit.Assert.*;
 
 /**
