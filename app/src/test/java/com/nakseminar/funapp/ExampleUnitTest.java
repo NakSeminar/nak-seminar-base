@@ -1,4 +1,4 @@
-//package com.nakseminar.funapp;
+package com.nakseminar.funapp;
 
 import org.junit.Test;
 
