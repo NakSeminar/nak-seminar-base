@@ -1,5 +1,6 @@
 // Test
 
+// Weiterer Kommentar
 
 package com.nakseminar.funapp;
 
