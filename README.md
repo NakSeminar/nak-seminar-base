@@ -3,4 +3,7 @@
 Das hier ist eine neue Beschreibung.
 
 added something to readme
-I am provoking a merge conflict
+
+Saams change: I am provoking a merge conflict
+Hajos change: some change
+
